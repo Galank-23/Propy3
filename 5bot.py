@@ -13,23 +13,23 @@ import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 #cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
 #Ambil Token Via Qr
-cl = LINE()
+cl = LINE('EtSNbiCf6c5F9oNalBCe.wvhydD8HlswGsvWpinOaVG.rW/1fGeN2BGqY27HV5+vxypxToItebOki6dwEzuMfr4=')
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
-ki = LINE()
+ki = LINE('Et2B0ExO4SLAXCZnW6Rf.5uc/9nuwMUFvh3q3+y/pVW.AV95eDnjNwxrPtMtRDbJwZ3ongLO7POyxiZbz4MKbAA=')
 ki.log("Auth Token : " + str(ki.authToken))
 ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
 
-kk = LINE()
+kk = LINE('EtjRSSTwWyp7aLjJ5Isf.8/vGPiBoM/ZcB4S2oYc0tW.AWN9Ys3nxDLeT7qaORAkD/83A7asrO1MSUc8/Ukpq7E=')
 kk.log("Auth Token : " + str(kk.authToken))
 kk.log("Timeline Token : " + str(kk.tl.channelAccessToken))
 
-kc = LINE()
+kc = LINE('Eth6PCxPKNw20lzIqpz6.Dv033ExVwtRzpkmQ3JkPDG.0szi+fjOFaWBgIPj1rxRqjZxwK4B4BvPbCVorZQ6Mdk=')
 kc.log("Auth Token : " + str(kc.authToken))
 kc.log("Timeline Token : " + str(kc.tl.channelAccessToken))
 
-ks = LINE()
+ks = LINE('EtvLJbJ0Z9YBVYzN51tb.qaw5y8Mf18Zg7MWUSHAtEW.qLUdLoKhr5TFF+KBU9W+TUtpugQPEbwWPeQl+h0Hf2s=')
 ks.log("Auth Token : " + str(ks.authToken))
 ks.log("Timeline Token : " + str(ks.tl.channelAccessToken))
 
