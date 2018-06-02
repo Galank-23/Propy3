@@ -619,7 +619,7 @@ def bot(op):
                   cl.sendText(msg.to,"Tunggu...")
                   mc = "╭══════╬╬═══════╮\n  Admin ●TΣΔM SLΔCҜβΩT●\n╰══════╬╬═══════╯\n╭══════╬╬═══════╮\n"
                   for mi_d in admin:
-                      mc += "╠⎆" +cl.getContact(mi_d).displayName + "\n╰══════╬╬═══════╯"
+                      mc += "╠⎆" +cl.getContact(mi_d).displayName + "\n"
                   cl.sendText(msg.to,mc)
 
 #======================================================================================================#
@@ -1784,11 +1784,13 @@ def bot(op):
 #======================================================================================================#
 
             elif msg.text in ["Creator"]:
-              msg.contentType = 13
-              msg.contentMetadata = {'mid': 'u78643d09e42a36836a17cc918963a8b7'}
-              cl.sendText(msg.to,"======================")
-              cl.sendMessage(msg)
-              cl.sendText(msg.to,"======================")
+             # msg.contentType = 13
+              mid = 'u78643d09e42a36836a17cc918963a8b7'
+              cl.sendContact(msg.to,mid)
+              #msg.contentMetadata = {'mid': 'u78643d09e42a36836a17cc918963a8b7'}
+              #cl.sendText(msg.to,"======================")
+              #cl.sendMessage(msg)
+              #cl.sendText(msg.to,"======================")
               cl.sendText(msg.to,"Itu Creator Kami Yang Pea 😜")
 
 #======================================================================================================#
