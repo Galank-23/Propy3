@@ -617,9 +617,9 @@ def bot(op):
                   cl.sendText(msg.to,"The stafflist is empty")
               else:
                   cl.sendText(msg.to,"Tunggu...")
-                  mc = "╭══════╬╬═══════╮\n  Admin ●TΣΔM SLΔCҜβΩT●\n╰══════╬╬═══════╯\n╭══════╬╬═══════╮||\n╰══════╬╬═══════╯\n"
+                  mc = "╭══════╬╬═══════╮\n  Admin ●TΣΔM SLΔCҜβΩT●\n╰══════╬╬═══════╯\n╭══════╬╬═══════╮\n"
                   for mi_d in admin:
-                      mc += "╠⎆" +cl.getContact(mi_d).displayName + "\n"
+                      mc += "╠⎆" +cl.getContact(mi_d).displayName + "\n╰══════╬╬═══════╯"
                   cl.sendText(msg.to,mc)
 
 #======================================================================================================#
@@ -1740,12 +1740,12 @@ def bot(op):
 
             elif msg.text in ["Absen","Absen bot","Absen dulu","Respon"]:
               if msg._from in admin:
-                cl.sendText(msg.to,"Tukang Sayur On")
-                ki.sendText(msg.to,"Tukang Colli On")
-                kk.sendText(msg.to,"Tukang Boker On")
-                kc.sendText(msg.to,"Tukang Becak On")
-                ks.sendText(msg.to,"Tukang Boong")
-                cl.sendText(msg.to,"Semua Udah Hadir Boss\nSiap Protect Group\nAman Gak Aman Yang Penting Anu")
+                cl.sendText(msg.to,"██")
+                ki.sendText(msg.to,"███")
+                kk.sendText(msg.to,"████")
+                kc.sendText(msg.to,"█████")
+                ks.sendText(msg.to,"██████")
+                cl.sendText(msg.to,"Semua Udah Hadir Boss\nSiap Protect Group\nAman Gak Aman Yang Penting Happy")
 
 #======================================================================================================#
 #======================================================================================================#
