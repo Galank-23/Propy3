@@ -1,12 +1,25 @@
 # -*- coding: utf-8 -*-
-# Support Ghost Team & One Piece Team
-
 from LINEPY import *
 from akad.ttypes import *
 from multiprocessing import Pool, Process
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 
+# JANGAN SOMBONG PAKE BOT ORANG
+# Oke Aku Kasih Tau ya
+# Biar kalian gak nanya
+# Mumet Jelasin
+# Protectpython3 ini pake token Desktopwin
+# Biar jelas dan gak nanya lagii
+# Script free tinggal pake aja kok
+# Hargai saya mastah jangan di ganti mid nya
+# Tambahin aja mid kalian
+# Gabung team kalian donk
+# Invite me [ID LINE] fuck.you__
+# sᴜᴘᴘᴏʀᴛᴇᴅ ʙʏ: 
+#     TΣΔM SLΔCҜβΩT
+# Owner:  『✍͡➴͜Ĝα₤αηĸ͜͡✫』
+	
 cl = LINE("TOKENMU SAYANG")
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
