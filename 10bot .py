@@ -20,47 +20,47 @@ import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 #     TΣΔM SLΔCҜβΩT
 # Owner:  『✍͡➴͜Ĝα₤αηĸ͜͡✫』
 	
-cl = LINE("TOKENMU SAYANG")
+cl = LINE("EttW1Y6AqNyl3ua70one.wvhydD8HlswGsvWpinOaVG.DqF8rILhn9bQCnE5XsQ0Xev+1laiSQSm0UzZaf0mGuE=")
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
 
-ki = LINE("TOKENMU SAYANG")
+ki = LINE("EtTDgs9d0uKoqk2Ae2qa.3svWLda5Jb1maVIdRVif6G.Ny7IYl9KLC19BHTMgMfXvCO9MluICDGLOoxwJcNAvnA=")
 ki.log("Auth Token : " + str(ki.authToken))
 ki.log("Timeline Token : " + str(ki.tl.channelAccessToken))
 
-ki2 = LINE("TOKENMU SAYANG")
+ki2 = LINE("EtjiDUWk3ZhPeh11COd3.eYIoClpI2sl2hRSJw7q6SW.DQbuwOvFVqSlWBuZ76nuRrAKMdv647Bij4n+kA55y/8=")
 ki2.log("Auth Token : " + str(ki2.authToken))
 ki2.log("Timeline Token : " + str(ki2.tl.channelAccessToken))
 
-ki3 = LINE("TOKENMU SAYANG")
+ki3 = LINE("Et4HFdhr2dm5W0TzDnM8.LetmZ3b3S8xsvXte6ExxAa.nNj/KyxQFyKawyA1B4+0Lz7vJftu1BpbrDVltenUB+Q=")
 ki3.log("Auth Token : " + str(ki3.authToken))
 ki3.log("Timeline Token : " + str(ki3.tl.channelAccessToken))
 
-ki4 = LINE("TOKENMU SAYANG")
+ki4 = LINE("EtBnZzeUtjYrSBDqKJIa.WQ7xJwYTy17gLrjSzVBpMG.g8VAIY7L7dC592G2CkuFvPXaZkDtNcNgQu4KLHr+y+g=")
 ki4.log("Auth Token : " + str(ki4.authToken))
 ki4.log("Timeline Token : " + str(ki4.tl.channelAccessToken))
 
-ki5 = LINE("TOKENMU SAYANG")
+ki5 = LINE("Et2XZFt7j3ESc4nzd0t8.yShUITzJjuINW9CsoWQVca.1/mt0HrGs7n3tDZZOiZ187ADtnHedOhHmymyi1hhdS0=")
 ki5.log("Auth Token : " + str(ki5.authToken))
 ki5.log("Timeline Token : " + str(ki5.tl.channelAccessToken))
 
-ki6 = LINE("TOKENMU SAYANG")
+ki6 = LINE("EtF23VJVPRDr47GdyKQ1.ccBRnlJ52qxGddbmnGz+iq.kOelDL4YWYzozrLUPOxoyVPrGUFWsjAfoZvyEi7Oz6c=")
 ki6.log("Auth Token : " + str(ki6.authToken))
 ki6.log("Timeline Token : " + str(ki6.tl.channelAccessToken))
 
-ki7 = LINE("TOKENMU SAYANG")
+ki7 = LINE("EtSQAGPSbBJQit68OiE7.ZCgQGGMRGrx9nKkkfuo+rW.IESuLpQM98g3Lll137qEAc7luZvDIBTLSkjhFoy+TJ0=")
 ki7.log("Auth Token : " + str(ki7.authToken))
 ki7.log("Timeline Token : " + str(ki7.tl.channelAccessToken))
 
-ki8 = LINE("TOKENMU SAYANG")
+ki8 = LINE("EtBqzzHqR2CblLdLpBr6.Dv033ExVwtRzpkmQ3JkPDG.z/DSBGe+dkDgjb28NZj3PdH5MNnVovM21E6Xrf49nEA=")
 ki8.log("Auth Token : " + str(ki8.authToken))
 ki8.log("Timeline Token : " + str(ki8.tl.channelAccessToken))
 
-ki9 = LINE("TOKENMU SAYANG")
+ki9 = LINE("Et3BXAS22zMkYE4sIrOb.qaw5y8Mf18Zg7MWUSHAtEW.ayeED75StbAR2YDpcuOZ858ETxQWJeFd+b3WCwwnvtY=")
 ki9.log("Auth Token : " + str(ki9.authToken))
 ki9.log("Timeline Token : " + str(ki9.tl.channelAccessToken))
 
-ki10 = LINE("TOKENMU SAYANG")
+ki10 = LINE("Etdt1JoWI31Fm4TTrmXf.8/vGPiBoM/ZcB4S2oYc0tW.uhMkoDcbcZld/YuwjG4iqNEaxJqsbb+VhNxHDEQbwUU=")
 ki10.log("Auth Token : " + str(ki10.authToken))
 ki10.log("Timeline Token : " + str(ki10.tl.channelAccessToken))
 
