@@ -78,8 +78,8 @@ ki8mid = ki8.getProfile().mid
 ki9mid = ki9.getProfile().mid
 ki10mid = ki10.getProfile().mid
 Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid]
-admsa = 'uf9769adcf23329d9caedcd850f6caea8','u81acb7e1e964063dc3cfbec063d22bc6','uf48b6148d0bc3eed934ea0a9e68e816d'
-admin = 'uf9769adcf23329d9caedcd850f6caea8'
+admsa = 'u78643d09e42a36836a17cc918963a8b7'
+admin = 'u78643d09e42a36836a17cc918963a8b7'
 
 wait = {
     'contact':False,
@@ -103,20 +103,20 @@ wait = {
     'detectMention6':False,
     'kickMention':False,
     'autoAdd':True,
-    'message':"Thanks For Add Me\n┅͜͡૨γαղ‮┅͜͡\n\n♻Support By ~ ҳ̸Ҳ̸ҳ Сўв∝я тҝ ҳ̸Ҳ̸ҳ\n\n✯==== Creator ====✯\n\nhttp://line.me/ti/p/~s.k.9.7",
+    'message':"Thanks For Add Me\n‮✍͡➴͜Ĝα₤αηĸ͜͡✫"
     "lang":"JP",
     "Timeline":True,
-    "comment":"☆Auto Like ©By : R̶y̶an Pr̶o̶tect\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment1":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ1\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment2":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ2\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment3":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ3\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment4":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ4\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment5":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ5\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment6":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ6\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment7":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ7\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment8":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ8\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment9":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ9\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
-    "comment10":"☆Auto Like ©By : Re̶y̶Pr̶o̶ᵃˢⁱˢᵗ10\n╔═════════════════════\n╠♻Support by :\n╠☆☞ Silent Kill™『SK』\n╠☆☞ NJ Killer™『NJK』\n╠═════════════════════\n╠☆☞ http://line.me/ti/p/~s.k.9.7\n╚═════════════════════",
+    "comment":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment1":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫1\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment2":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫2\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment3":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫3\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment4":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫4\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment5":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫5\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment6":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫6\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment7":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫7\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment8":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫8\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment9":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫9\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
+    "comment10":"Auto Like By :✍͡➴͜Ĝα₤αηĸ͜͡✫10\n╔═════════════════════\n╠Support by :\n╠☞ ●TΣΔM SLΔCҜβΩT●\n╠═════════════════════\n╠● http://line.me/ti/p/~fuck.you__\n╚═════════════════════",
     "commentOn":True,
     "commentBlack":{},
     "Sambutan":False,
@@ -318,7 +318,7 @@ def cms(string, commands): #/XXX, >XXX, ;XXX, ^XXX, %XXX, $XXX...
                         cl.leaveGroup(op.param1)                        
 		    else:
                         cl.acceptGroupInvitation(op.param1)
-			cl.sendText(op.param1,"☆『Assalamu'alaikum』☆\n☆『Newbie Om, Jangan Dibully』☆")
+			cl.sendText(op.param1,"『Assalamualaikum\n『Newbie Om[Dedek polos] Jangan Dibully』")
 
 
 def restart_program():
@@ -399,7 +399,7 @@ def bot(op):
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
-                if msg.from_ == "uf9769adcf23329d9caedcd850f6caea8":
+                if msg.from_ == "u78643d09e42a36836a17cc918963a8b7":
                     if "join:" in msg.text:
                         list_ = msg.text.split(":")
                         try:
@@ -579,7 +579,7 @@ def bot(op):
                  if wait["detectMention"] == True:          
                     contact = ki.getContact(msg.from_)
                     cName = contact.displayName
-                    balas = ["Gosah TAG-TAG " + cName + " JEMBOTT!!!","Nggak Usah Tag-Tag! Kalo Penting Langsung Pc Aja " + cName ,"Woii " + cName + " Jangan Ngetag, Riibut!","Yawloh,, Jones Karatan " + cName + " NgeTag!!","Ono Opo MBOTT" + cName + " NgeTag-Tag!!"]
+                    balas = ["Gosah TAG-TAG Pantek" + cName + " ASTAGA!!!","Nggak Usah Tag-Tag! Kalo Penting Langsung Pc Aja " + cName ,"Woii " + cName + " Jangan Ngetag, Riibut!","Yawloh,, Jones Karatan " + cName + " NgeTag!!","Ono Opo MBOTT" + cName + " NgeTag-Tag!!"]
                     ret_ = random.choice(balas)
                     name = re.findall(r'@(\w+)', msg.text)
                     mention = ast.literal_eval(msg.contentMetadata['MENTION'])
@@ -587,7 +587,7 @@ def bot(op):
                     for mention in mentionees:
                            if mention['M'] in Bots:
                                   ki.sendText(msg.to,ret_)
-                                  rnd = ["Buset si joness ngetag mulu, kalo penting langsung pe em riyan nya aja","Ni orang kerjaan nya ngetag mulu, gift tikel aja enggak pernah, suwe lu jamban"]
+                                  rnd = ["Buset si joness ngetag mulu, kalo penting langsung spam pc ke Galank aja","Nieh orang kerjaan nya ngetag mulu, gift tikel aja enggak pernah, sue lu jamban"]
                                   p = random.choice(rnd)
                                   lang = 'id'
                                   tts = gTTS(text=p, lang=lang)
@@ -606,7 +606,7 @@ def bot(op):
                  if wait["detectMention2"] == True:          
                     contact = cl.getContact(msg.from_)
                     cName = contact.displayName
-                    balas = ["Gosah TAG-TAG " + cName + " JEMBOTT!!!","Nggak Usah Tag-Tag! Kalo Penting Langsung Pc Aja " + cName ,"Woii " + cName + " Jangan Ngetag, Riibut!","Yawloh,, Jones Karatan " + cName + " NgeTag!!","Ono Opo MBOTT" + cName + " NgeTag-Tag!!"]
+                    balas = ["Gosah TAG-TAG " + cName + " Babik!!!","Nggak Usah Tag-Tag! Kalo Penting Langsung Pc Aja " + cName ,"Woii " + cName + " Jangan Ngetag, Riibut!","Yawloh,, Jones Karatan " + cName + " NgeTag!!","Ada Opo MBOTT" + cName + " NgeTag-Tag!!"]
                     ret_ = random.choice(balas)
                     name = re.findall(r'@(\w+)', msg.text)
                     mention = ast.literal_eval(msg.contentMetadata['MENTION'])
@@ -627,8 +627,8 @@ def bot(op):
                  if wait["detectMention3"] == True:          
                     contact = cl.getContact(msg.from_)
                     cName = contact.displayName
-                    balas = ["" + cName + ", Jadilah Jones Alami Yang Nggak Suka NgeTag Orang Ganteng"]
-                    balas1 = "Selfie dulu ya Cet. . ."
+                    balas = ["" + cName + ", Jadilah Jones Alami Yang Nggak Laku²"]
+                    balas1 = "Korban Fans gwa. . ."
                     ret_ = random.choice(balas)
                     image = "http://dl.profile.line-cdn.net/" + contact.pictureStatus
                     name = re.findall(r'@(\w+)', msg.text)
@@ -1029,19 +1029,19 @@ def bot(op):
                     cl.sendText(msg.to,msg.text)
             elif msg.text is None:
                 return
-            elif msg.text in ["Kasih help","help","[∆√ cувєя тк™ √∆]"]:
+            elif msg.text in ["Galank help","help"]:
             	if msg.from_ in admin:
                     cl.sendText(msg.to,helpMessage)
-                    cl.sendText(msg.to,"『Dilarang Typo Tanpa Izin Dari Owner』")
+                    cl.sendText(msg.to,"『Dilarang Typo Tanpa Izin Dari Owner: Galank』")
                     
-            elif msg.text in ["Ryan key","help","[∆√ cувєя тк™ √∆]"]:
+            elif msg.text in ["Galank key","help","]:
             	if msg.from_ in admin:
                     cl.sendText(msg.to,ryanMessage)
                     msg.contentType = 13
                     msg.contentMetadata = {'mid': admsa}
                     cl.sendMessage(msg)
                     
-            elif msg.text in ["Respon1 on"]:
+            elif msg.text in ["Respon1:on"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = True
                     wait["detectMention2"] = False
@@ -1052,16 +1052,16 @@ def bot(op):
                     wait["kickMention"] = False
                     ki.sendText(msg.to,"Auto Respon1 Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 
-            elif msg.text in ["Respon1 off"]:
+            elif msg.text in ["Respon1:off"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = False
                     ki.sendText(msg.to,"Auto Respon1 Sudah Off")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")	
+		    ki.sendText(msg.to,"Khusus Galank")	
 		
-            elif msg.text in ["Respon2 on"]:
+            elif msg.text in ["Respon2:on"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = False
                     wait["detectMention2"] = True
@@ -1072,16 +1072,16 @@ def bot(op):
                     wait["kickMention"] = False
                     cl.sendText(msg.to,"Auto Respon2 Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 
-            elif msg.text in ["Respon2 off"]:
+            elif msg.text in ["Respon2:off"]:
 		if msg.from_ in admin:
                     wait["detectMention2"] = False
                     cl.sendText(msg.to,"Auto Respon2 Sudah Off")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")	
+		    ki.sendText(msg.to,"Khusus Galank")	
 		
-            elif msg.text in ["Respon3 on"]:
+            elif msg.text in ["Respon3:on"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = False
                     wait["detectMention2"] = False
@@ -1092,16 +1092,16 @@ def bot(op):
                     wait["kickMention"] = False
                     cl.sendText(msg.to,"Auto Respon3 Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 
-            elif msg.text in ["Respon3 off"]:
+            elif msg.text in ["Respon3:off"]:
 		if msg.from_ in admin:
                     wait["detectMention3"] = False
                     cl.sendText(msg.to,"Auto Respon3 Sudah Off")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")	
+		    ki.sendText(msg.to,"Khusus Galank")	
 		
-            elif msg.text in ["Respon4 on"]:
+            elif msg.text in ["Respon4:on"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = False
                     wait["detectMention2"] = False
@@ -1112,16 +1112,16 @@ def bot(op):
                     wait["kickMention"] = False
                     cl.sendText(msg.to,"Auto Respon4 Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 
-            elif msg.text in ["Respon4 off"]:
+            elif msg.text in ["Respon4:off"]:
 		if msg.from_ in admin:
                     wait["detectMention4"] = False
                     cl.sendText(msg.to,"Auto Respon4 Sudah Off")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")	
+		    ki.sendText(msg.to,"Khusus Galank")	
 		
-            elif msg.text in ["Respon5 on"]:
+            elif msg.text in ["Respon5:on"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = False
                     wait["detectMention2"] = False
@@ -1132,16 +1132,16 @@ def bot(op):
                     wait["kickMention"] = False
                     cl.sendText(msg.to,"Auto Respon5 Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 
-            elif msg.text in ["Respon5 off"]:
+            elif msg.text in ["Respon5:off"]:
 		if msg.from_ in admin:
                     wait["detectMention5"] = False
                     cl.sendText(msg.to,"Auto Respon5 Sudah Off")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")	
+		    ki.sendText(msg.to,"Khusus Galank")	
 	
-            elif msg.text in ["Respon6 on"]:
+            elif msg.text in ["Respon6:on"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = False
                     wait["detectMention2"] = False
@@ -1152,16 +1152,16 @@ def bot(op):
                     wait["kickMention"] = False
                     cl.sendText(msg.to,"Auto Respon6 Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 
-            elif msg.text in ["Respon6 off"]:
+            elif msg.text in ["Respon6:off"]:
 		if msg.from_ in admin:
                     wait["detectMention6"] = False
                     cl.sendText(msg.to,"Auto Respon6 Sudah Off")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")	
+		    ki.sendText(msg.to,"Khusus Galank")	
 		
-            elif msg.text in ["Responkick on"]:
+            elif msg.text in ["Responkick:on"]:
 		if msg.from_ in admin:
                     wait["kickMention"] = True  
                     wait["detectMention"] = False
@@ -1170,16 +1170,16 @@ def bot(op):
                     wait["detectMention4"] = False
                     cl.sendText(msg.to,"Auto Respon Kick Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 		
-            elif msg.text in ["Responkick off"]:
+            elif msg.text in ["Responkick:off"]:
 		if msg.from_ in admin:
                     wait["kickMention"] = False  
                     cl.sendText(msg.to,"Auto Respon Kick Di Nonaktifkan")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 		
-            elif msg.text in ["AllRespon on"]:
+            elif msg.text in ["AllRespon:on"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = True
                     wait["detectMention2"] = True
@@ -1188,9 +1188,9 @@ def bot(op):
                     wait["kickMention"] = True
                     cl.sendText(msg.to,"Semua Auto Respon Sudah Aktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 		
-            elif msg.text in ["AllRespon off"]:
+            elif msg.text in ["AllRespon:off"]:
 		if msg.from_ in admin:
                     wait["detectMention"] = False
                     wait["detectMention2"] = False
@@ -1199,7 +1199,7 @@ def bot(op):
                     wait["kickMention"] = False
                     cl.sendText(msg.to,"Semua Auto Respon Sudah Nonaktif")
 		else:
-		    ki.sendText(msg.to,"Khusus Ryan")
+		    ki.sendText(msg.to,"Khusus Galank")
 		
             elif msg.text in ["Bot:inv on"]:
             	if msg.from_ in admin:
@@ -1328,19 +1328,19 @@ def bot(op):
                 msg.contentMetadata = {'mid': ki10mid}
                 ki10.sendMessage(msg) 
                 msg.contentType = 13
-            elif "Rey1" == msg.text:
+            elif "Galank1" == msg.text:
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': kimid}
                 ki.sendMessage(msg)
-            elif "Rey2" == msg.text:
+            elif "Galank2" == msg.text:
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki2mid}
                 ki2.sendMessage(msg)
-            elif "Rey3" == msg.text:
+            elif "Galank3" == msg.text:
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki3mid}
                 ki3.sendMessage(msg)
-            elif "Rey4" == msg.text:
+            elif "Galank4" == msg.text:
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki4mid}
                 ki4.sendMessage(msg) 
@@ -1474,7 +1474,7 @@ def bot(op):
                 cl.kedapkedip(msg.to,txt)
                 print "[Command] Kedapkedip"
                
-            elif msg.text in ["Rey1 Gift","Bot1 gift"]:
+            elif msg.text in ["Galank1 Gift","Bot1 gift"]:
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
                                     'PRDTYPE': 'THEME',
@@ -1489,7 +1489,7 @@ def bot(op):
                 msg.text = None
                 cl.sendMessage(msg)
 
-            elif msg.text in ["Rey2 Gift","Bot2 gift"]:
+            elif msg.text in ["Galank2 Gift","Bot2 gift"]:
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
                                     'PRDTYPE': 'THEME',
@@ -1497,7 +1497,7 @@ def bot(op):
                 msg.text = None
                 ki2.sendMessage(msg)
                 
-            elif msg.text in ["Rey3 Gift","Bot3 gift"]:
+            elif msg.text in ["Galank3 Gift","Bot3 gift"]:
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
                                     'PRDTYPE': 'THEME',
@@ -1505,7 +1505,7 @@ def bot(op):
                 msg.text = None
                 ki3.sendMessage(msg)
                 
-            elif msg.text in ["Rey4 Gift","Bot4 gift"]:
+            elif msg.text in ["Galank4 Gift","Bot4 gift"]:
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
                                     'PRDTYPE': 'THEME',
@@ -1521,7 +1521,7 @@ def bot(op):
                 wait["likeOn"] = False
                 cl.sendText(msg.to,"『Auto Like Di Nonaktifkan』")
                 
-            elif msg.text in ["Rey Cancel","Cancel dong","B cancel"]:
+            elif msg.text in ["Galank Cancel","Cancel dong","B cancel"]:
                 if msg.toType == 2:
                     group = ki.getGroup(msg.to)
                     if group.invitee is not None:
@@ -1529,7 +1529,7 @@ def bot(op):
                         ki.cancelGroupInvitation(msg.to, gInviMids)
                     else:
                         if wait["lang"] == "JP":
-                            ki.sendText(msg.to,"Davet yok😤")
+                            ki.sendText(msg.to,"fuck yok😤")
                         else:
                             ki.sendText(msg.to,"Invite people inside not👈")
                 else:
@@ -1566,16 +1566,16 @@ def bot(op):
                     group.preventJoinByTicket = False
                     ki.updateGroup(group)
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"URL on ✍")
-                        ki2.sendText(msg.to,"URL on ✍")
-                        ki3.sendText(msg.to,"URL on ✍")
-                        ki4.sendText(msg.to,"URL on ✍")
-                        ki5.sendText(msg.to,"URL on ✍")
-                        ki6.sendText(msg.to,"URL on ✍")
-                        ki7.sendText(msg.to,"URL on ✍")
-                        ki8.sendText(msg.to,"URL on ✍")
-                        ki9.sendText(msg.to,"URL on ✍")
-                        ki10.sendText(msg.to,"URL on ✍")
+                        ki.sendText(msg.to,"URL on")
+                        ki2.sendText(msg.to,"URL on")
+                        ki3.sendText(msg.to,"URL on")
+                        ki4.sendText(msg.to,"URL on")
+                        ki5.sendText(msg.to,"URL on")
+                        ki6.sendText(msg.to,"URL on")
+                        ki7.sendText(msg.to,"URL on")
+                        ki8.sendText(msg.to,"URL on")
+                        ki9.sendText(msg.to,"URL on")
+                        ki10.sendText(msg.to,"URL on")
                 else:
                     if wait["lang"] == "JP":
                         ki.sendText(msg.to,"It can not be used outside the group ô€œô€„‰👈")
@@ -1587,24 +1587,24 @@ def bot(op):
                     group.preventJoinByTicket = True
                     ki.updateGroup(group)
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"URL Closed ✍")
-                        ki2.sendText(msg.to,"URL Closed ✍")
-                        ki3.sendText(msg.to,"URL Closed ✍")
-                        ki4.sendText(msg.to,"URL Closed ✍")
-                        ki5.sendText(msg.to,"URL Closed ✍")
-                        ki6.sendText(msg.to,"URL Closed ✍")
-                        ki7.sendText(msg.to,"URL Closed ✍")
-                        ki8.sendText(msg.to,"URL Closed ✍")
-                        ki9.sendText(msg.to,"URL Closed ✍")
-                        ki10.sendText(msg.to,"URL Closed ✍")
+                        ki.sendText(msg.to,"URL Closed")
+                        ki2.sendText(msg.to,"URL Closed")
+                        ki3.sendText(msg.to,"URL Closed")
+                        ki4.sendText(msg.to,"URL Closed")
+                        ki5.sendText(msg.to,"URL Closed")
+                        ki6.sendText(msg.to,"URL Closed")
+                        ki7.sendText(msg.to,"URL Closed")
+                        ki8.sendText(msg.to,"URL Closed")
+                        ki9.sendText(msg.to,"URL Closed")
+                        ki10.sendText(msg.to,"URL Closed")
                     else:
-                        ki.sendText(msg.to,"URL Kapalí ✍")
-                        ki2.sendText(msg.to,"URL Kapalí ✍")
-                        ki3.sendText(msg.to,"URL Kapali ✍")
-                        ki4.sendText(msg.to,"URL Kapali ✍")
-                        ki5.sendText(msg.to,"URL Kapali ✍")
-                        ki6.sendText(msg.to,"URL Kapali ✍")
-                        ki7.sendText(msg.to,"URL Kapali ✍") 
+                        ki.sendText(msg.to,"URL done")
+                        ki2.sendText(msg.to,"URL done")
+                        ki3.sendText(msg.to,"URL done")
+                        ki4.sendText(msg.to,"URL done")
+                        ki5.sendText(msg.to,"URL done")
+                        ki6.sendText(msg.to,"URL done")
+                        ki7.sendText(msg.to,"URL done") 
                 else:
                     if wait["lang"] == "JP":
                         cl.sendText(msg.to,"It can not be used outside the group  👈")
@@ -1631,25 +1631,25 @@ def bot(op):
                 cl.sendMessage(msg)
             elif "Mymid" == msg.text:
                 cl.sendText(msg.to,mid)
-            elif "Rey1 mid" == msg.text:
+            elif "Galank1 mid" == msg.text:
                 ki.sendText(msg.to,kimid)
-            elif "Rey2 mid" == msg.text:
+            elif "Galank2 mid" == msg.text:
                 ki2.sendText(msg.to,ki2mid)
-            elif "Rey3 mid" == msg.text:
+            elif "Galank3 mid" == msg.text:
                 ki3.sendText(msg.to,ki3mid)
-            elif "Rey4 mid" == msg.text:
+            elif "Galank4 mid" == msg.text:
                 ki4.sendText(msg.to,ki4mid)
-            elif "Rey5 mid" == msg.text:
+            elif "Galank5 mid" == msg.text:
                 ki5.sendText(msg.to,ki5mid)
-            elif "Rey6 mid" == msg.text:
+            elif "Galank6 mid" == msg.text:
                 ki6.sendText(msg.to,ki6mid)
-            elif "Rey7 mid" == msg.text:
+            elif "Galank7 mid" == msg.text:
                 ki7.sendText(msg.to,ki7mid)
-            elif "Rey8 mid" == msg.text:
+            elif "Galank8 mid" == msg.text:
                 ki8.sendText(msg.to,ki8mid)
-            elif "Rey9 mid" == msg.text:
+            elif "Galank9 mid" == msg.text:
                 ki9.sendText(msg.to,ki9mid)
-            elif "Rey10 mid" == msg.text:
+            elif "Galank10 mid" == msg.text:
                 ki10.sendText(msg.to,ki10mid)
             elif "all mid" == msg.text:
                 ki.sendText(msg.to,kimid)
@@ -1662,8 +1662,8 @@ def bot(op):
                 ki8.sendText(msg.to,ki8mid)
                 ki9.sendText(msg.to,ki9mid)
                 ki10.sendText(msg.to,ki10mid)
-            elif "Rey:" in msg.text:
-                tl_text = msg.text.replace("Rey:","")
+            elif "Galank:" in msg.text:
+                tl_text = msg.text.replace("Galank:","")
                 cl.sendText(msg.to,"line://home/post?userMid="+mid+"&postId="+cl.new_post(tl_text)["result"]["post"]["postInfo"]["postId"])
             elif "All:" in msg.text:
                 string = msg.text.replace("All:","")
@@ -1702,9 +1702,9 @@ def bot(op):
                     cl.updateProfile(profile)
                     cl.sendText(msg.to,"􀜁􀇔􏿿Update Names👉 " + string + "👈")
                     
-            elif "Rey1 copy @" in msg.text:
+            elif "Galank1 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey1 copy @","")
+                   _name = msg.text.replace("Galank1 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki.getGroup(msg.to)
                    targets = []
@@ -1721,9 +1721,9 @@ def bot(op):
                             except Exception as e:
                                 print e
                                 
-            elif "Rey2 copy @" in msg.text:
+            elif "Galank2 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey2 copy @","")
+                   _name = msg.text.replace("Galank2 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki2.getGroup(msg.to)
                    targets = []
@@ -1740,9 +1740,9 @@ def bot(op):
                             except Exception as e:
                                 print e
                                 
-            elif "Rey3 copy @" in msg.text:
+            elif "Galank3 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey3 copy @","")
+                   _name = msg.text.replace("Galank3 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki3.getGroup(msg.to)
                    targets = []
@@ -1759,9 +1759,9 @@ def bot(op):
                             except Exception as e:
                                 print e                                
 
-            elif "Rey4 copy @" in msg.text:
+            elif "Galank4 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey4 copy @","")
+                   _name = msg.text.replace("Galank4 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki4.getGroup(msg.to)
                    targets = []
@@ -1778,9 +1778,9 @@ def bot(op):
                             except Exception as e:
                                 print e
                                 
-            elif "Rey5 copy @" in msg.text:
+            elif "Galank5 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey5 copy @","")
+                   _name = msg.text.replace("Galank5 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki5.getGroup(msg.to)
                    targets = []
@@ -1797,9 +1797,9 @@ def bot(op):
                             except Exception as e:
                                 print e
                                 
-            elif "Rey6 copy @" in msg.text:
+            elif "Galank6 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey6 copy @","")
+                   _name = msg.text.replace("Galank6 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki6.getGroup(msg.to)
                    targets = []
@@ -1816,9 +1816,9 @@ def bot(op):
                             except Exception as e:
                                 print e
                                 
-            elif "Rey7 copy @" in msg.text:
+            elif "Galank7 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey7 copy @","")
+                   _name = msg.text.replace("Galank7 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki7.getGroup(msg.to)
                    targets = []
@@ -1835,9 +1835,9 @@ def bot(op):
                             except Exception as e:
                                 print e                                
 
-            elif "Rey8 copy @" in msg.text:
+            elif "Galank8 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey8 copy @","")
+                   _name = msg.text.replace("Galank8 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki8.getGroup(msg.to)
                    targets = []
@@ -1854,9 +1854,9 @@ def bot(op):
                             except Exception as e:
                                 print e
                                 
-            elif "Rey9 copy @" in msg.text:
+            elif "Galank9 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey9 copy @","")
+                   _name = msg.text.replace("Galank9 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki9.getGroup(msg.to)
                    targets = []
@@ -1873,9 +1873,9 @@ def bot(op):
                             except Exception as e:
                                 print e                                
 
-            elif "Rey10 copy @" in msg.text:
+            elif "Galank10 copy @" in msg.text:
                    print "[COPY] Ok"
-                   _name = msg.text.replace("Rey10 copy @","")
+                   _name = msg.text.replace("Galank10 copy @","")
                    _nametarget = _name.rstrip('  ')
                    gs = ki10.getGroup(msg.to)
                    targets = []
@@ -1928,7 +1928,7 @@ def bot(op):
                     cl.sendText(msg.to, str(e))
 
 #-------------Fungsi Tag All Start---------------#
-            elif msg.text in ["Cipok","Rey Tagall"]:
+            elif msg.text in ["Tagall","Galank Tagall"]:
                   group = cl.getGroup(msg.to)
                   nama = [contact.mid for contact in group.members]
 
@@ -2283,7 +2283,7 @@ def bot(op):
                         
             elif msg.text.lower() == 'runtime':
                 eltime = time.time() - mulai
-                van = "Bot Sudah Berjalan Selama :\n"+waktu(eltime)
+                van = "Bot Sudah Ngesot Selama :\n"+waktu(eltime)
                 cl.sendText(msg.to,van)
                 ki.sendText(msg.to,van)
                 ki2.sendText(msg.to,van)
@@ -2507,31 +2507,31 @@ def bot(op):
             elif msg.text.lower() == 'protect on':
                 if wait["protect"] == True:
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki2.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki3.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki4.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki5.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki6.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki7.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki8.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki9.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki10.sendText(msg.to,"Auto Protect on🔓✍")
+                        ki.sendText(msg.to,"Auto Protect on✔")
+                        ki2.sendText(msg.to,"Auto Protect on✔")
+                        ki3.sendText(msg.to,"Auto Protect on✔")
+                        ki4.sendText(msg.to,"Auto Protect on✔")
+                        ki5.sendText(msg.to,"Auto Protect on✔")
+                        ki6.sendText(msg.to,"Auto Protect on✔")
+                        ki7.sendText(msg.to,"Auto Protect on✔")
+                        ki8.sendText(msg.to,"Auto Protect on✔")
+                        ki9.sendText(msg.to,"Auto Protect on✔")
+                        ki10.sendText(msg.to,"Auto Protect on✔")
                     else:
                         ki.sendText(msg.to,"Hal ini sudah terbuka ô€¨👈")
                 else:
                     wait["protect"] = True
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki2.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki3.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki4.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki5.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki6.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki7.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki8.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki9.sendText(msg.to,"Auto Protect on🔓✍")
-                        ki10.sendText(msg.to,"Auto Protect on🔓✍")
+                        ki.sendText(msg.to,"Auto Protect on✔")
+                        ki2.sendText(msg.to,"Auto Protect on✔")
+                        ki3.sendText(msg.to,"Auto Protect on✔")
+                        ki4.sendText(msg.to,"Auto Protect on✔")
+                        ki5.sendText(msg.to,"Auto Protect on✔")
+                        ki6.sendText(msg.to,"Auto Protect on✔")
+                        ki7.sendText(msg.to,"Auto Protect on✔")
+                        ki8.sendText(msg.to,"Auto Protect on✔")
+                        ki9.sendText(msg.to,"Auto Protect on✔")
+                        ki10.sendText(msg.to,"Auto Protect on✔")
                     else:
                         ki.sendText(msg.to,"It is already On ô€¨")
             elif msg.text.lower() == 'qrprotect on':
@@ -2543,96 +2543,96 @@ def bot(op):
                 else:
                     wait["linkprotect"] = True
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Already on✍")
+                        ki2.sendText(msg.to,"Already on✔")
                     else:
                         ki2.sendText(msg.to,"It is already On ô€¨")
             elif msg.text.lower() == 'invitepro on':
                 if wait["inviteprotect"] == True:
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"Invite protect On✍")
+                        ki.sendText(msg.to,"Invite protect On✔")
                     else:
                         ki.sendText(msg.to,"Hal ini sudah terbuka ô€¨����👈")
                 else:
                     wait["inviteprotect"] = True
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"Already on✍")
+                        ki.sendText(msg.to,"Already on✔")
                     else:
                         ki.sendText(msg.to,"It is already On ô€¨")
             elif msg.text.lower() == 'cancelprotect on':
                 if wait["cancelprotect"] == True:
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Cancel Protect on✍ 􀜁􀇔􏿿👈")
+                        ki2.sendText(msg.to,"Cancel Protect on✔ 􀜁􀇔􏿿👈")
                     else:
                         ki2.sendText(msg.to,"Hal ini sudah terbuka ô€¨👈")
                 else:
                     wait["cancelprotect"] = True
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Already on✍")
+                        ki2.sendText(msg.to,"Already on✔")
                     else:
                         ki2.sendText(msg.to,"It is already On ô€¨")
             elif msg.text.lower() == 'auto join on':
                 if wait["autoJoin"] == True:
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"Auto Login on✍")
+                        ki.sendText(msg.to,"Auto Login on✔")
                     else:
                         ki.sendText(msg.to,"Hal ini sudah terbuka ô€¨👈")
                 else:
                     wait["autoJoin"] = True
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"Already on✍")
+                        ki.sendText(msg.to,"Already on✔")
                     else:
                         ki.sendText(msg.to,"It is already On ô€¨")
             elif msg.text.lower() == 'kicker on':
                 if wait["joinkick"] == True:
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Kicker Auto set On✍")
+                        ki2.sendText(msg.to,"Kicker Auto set On✔")
                     else:
-                        ki2.sendText(msg.to,"Kicker Auto set On✍")
+                        ki2.sendText(msg.to,"Kicker Auto set On✔")
                 else:
                     wait["joinkick"] = True
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Kicker Auto set On✍")
+                        ki2.sendText(msg.to,"Kicker Auto set On✔")
                     else:
                         ki2.sendText(msg.to,"It is already On ô€¨")
             elif msg.text.lower() == 'kicker off':
                 if wait["joinkick"] == False:
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Kicker Auto set Off✍")
+                        ki2.sendText(msg.to,"Kicker Auto set Off✖")
                     else:
-                        ki2.sendText(msg.to,"Kicker Auto set Off✍")
+                        ki2.sendText(msg.to,"Kicker Auto set Off✖")
                 else:
                     wait["joinkick"] = False
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Kicker Auto set Off✍")
+                        ki2.sendText(msg.to,"Kicker Auto set Off✖")
                     else:
                         ki2.sendText(msg.to,"It is already Off ô€¨")
             elif msg.text.lower() == 'autokick on':
                 if wait["AutoKick"] == True:
                     if wait["lang"] == "JP":
-                        ki3.sendText(msg.to,"Auto Kick set On✍")
+                        ki3.sendText(msg.to,"Auto Kick set On✔")
                     else:
-                        ki3.sendText(msg.to,"Auto Kick set On✍")
+                        ki3.sendText(msg.to,"Auto Kick set On✔")
                 else:
                     wait["AutoKick"] = True
                     if wait["lang"] == "JP":
-                        ki3.sendText(msg.to,"Auto Kick set On✍")
+                        ki3.sendText(msg.to,"Auto Kick set On✔")
                     else:
                         ki3.sendText(msg.to,"It is already On ô€¨")
             elif msg.text.lower() == 'autokick off':
                 if wait["AutoKick"] == False:
                     if wait["lang"] == "JP":
-                        ki3.sendText(msg.to,"Auto Kick set Off✍")
+                        ki3.sendText(msg.to,"Auto Kick set Off✖")
                     else:
-                        ki3.sendText(msg.to,"Auto Kick set Off✍")
+                        ki3.sendText(msg.to,"Auto Kick set Off✖")
                 else:
                     wait["AutoKick"] = False
                     if wait["lang"] == "JP":
-                        ki3.sendText(msg.to,"Auto Kick set Off✍")
+                        ki3.sendText(msg.to,"Auto Kick set Off✖")
                     else:
                         ki3.sendText(msg.to,"It is already Off ô€¨")
             elif msg.text.lower() == 'blocklist':
                 blockedlist = ki.getBlockedContactIds()
-                ki.sendText(msg.to, "Please wait ✍")
+                ki.sendText(msg.to, "Please wait")
                 kontak = cl.getContacts(blockedlist)
                 num=1
                 msgs="User Blocked List\n"
@@ -2645,89 +2645,89 @@ def bot(op):
               if msg.from_ in admin:
                 if wait["inviteprotect"] == True:
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"All Protect on🔓✍")
-                        ki2.sendText(msg.to,"All Protect on🔓✍")
-                        ki3.sendText(msg.to,"All Protect on🔓✍")
-                        ki4.sendText(msg.to,"All Protect on🔓✍")
-                        ki5.sendText(msg.to,"All Protect on🔓✍")
-                        ki6.sendText(msg.to,"All Protect on🔓✍")
-                        ki7.sendText(msg.to,"All Protect on🔓✍")
-                        ki8.sendText(msg.to,"All Protect on🔓✍")
-                        ki9.sendText(msg.to,"All Protect on🔓✍")
-                        ki10.sendText(msg.to,"All Protect on🔓✍")
+                        ki.sendText(msg.to,"All Protect on✔")
+                        ki2.sendText(msg.to,"All Protect on✔")
+                        ki3.sendText(msg.to,"All Protect on✔")
+                        ki4.sendText(msg.to,"All Protect on✔")
+                        ki5.sendText(msg.to,"All Protect on✔")
+                        ki6.sendText(msg.to,"All Protect on✔")
+                        ki7.sendText(msg.to,"All Protect on✔")
+                        ki8.sendText(msg.to,"All Protect on✔")
+                        ki9.sendText(msg.to,"All Protect on✔")
+                        ki10.sendText(msg.to,"All Protect on✔")
                     else:
                         ki.sendText(msg.to,"")
                 else:
                     wait["inviteprotect"] = True
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"Invite Protect set On✍")
+                        ki.sendText(msg.to,"Invite Protect set On✔")
                 if wait["cancelprotect"] == True:
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Cancel Protect set On✍")
+                        ki2.sendText(msg.to,"Cancel Protect set On✔")
                     else:
-                        ki2.sendText(msg.to,"Cancel Protect set On✍")
+                        ki2.sendText(msg.to,"Cancel Protect set On✔")
                 else:
                     wait["cancelprotect"] = True
                     if wait["lang"] == "JP":
-                        ki2.sendText(msg.to,"Cancel Protect set On✍")      
+                        ki2.sendText(msg.to,"Cancel Protect set On✔")      
                 if wait["protect"] == True:
                     if wait["lang"] == "JP":
-                        ki3.sendText(msg.to,"Protect set On✍")
+                        ki3.sendText(msg.to,"Protect set On✔")
                     else:
-                        ki3.sendText(msg.to,"Protect set On✍")
+                        ki3.sendText(msg.to,"Protect set On✔")
                 else:
                     wait["protect"] = True
                     if wait["lang"] == "JP":
-                        ki3.sendText(msg.to,"Protect set On✍")
+                        ki3.sendText(msg.to,"Protect set On✔")
                     else:
-                        ki3.sendText(msg.to,"Protect set on✍")
+                        ki3.sendText(msg.to,"Protect set on✔")
                 if wait["linkprotect"] == True:
                     if wait["lang"] == "JP":
-                        ki4.sendText(msg.to,"Link Protect set On✍")
+                        ki4.sendText(msg.to,"Link Protect set On✔")
                     else:
-                        ki4.sendText(msg.to,"Link Protect set On✍")
+                        ki4.sendText(msg.to,"Link Protect set On✔")
                 else:
                     wait["linkprotect"] = True
                     if wait["lang"] == "JP":
-                        ki4.sendText(msg.to,"Link Protect set On✍")
+                        ki4.sendText(msg.to,"Link Protect set On✔")
                     else:
                         ki4.sendText(msg.to,"Link Protect set On✍")
                 if wait["joinkick"] == True:
                     if wait["lang"] == "JP":
-                        ki5.sendText(msg.to,"Kicker Protect set On✍")
+                        ki5.sendText(msg.to,"Kicker Protect set On✔")
                     else:
-                        ki5.sendText(msg.to,"Kicker Protect set On✍")
+                        ki5.sendText(msg.to,"Kicker Protect set On✔")
                 else:
                     wait["joinkick"] = True
                     if wait["lang"] == "JP":
-                        ki5.sendText(msg.to,"Kicker Protect set On✍")
+                        ki5.sendText(msg.to,"Kicker Protect set On✔")
                     else:
-                        ki5.sendText(msg.to,"Kicker Protect set On✍")
+                        ki5.sendText(msg.to,"Kicker Protect set On✔")
                 if wait["AutoKick"] == True:
                     if wait["lang"] == "JP":
-                        ki6.sendText(msg.to,"Auto Kick set On✍")
+                        ki6.sendText(msg.to,"Auto Kick set On✔")
                     else:
-                        ki6.sendText(msg.to,"Auto Kick set On✍")
+                        ki6.sendText(msg.to,"Auto Kick set On✔")
                 else:
                     wait["AutoKick"] = True
                     if wait["lang"] == "JP":
-                        ki6.sendText(msg.to,"Auto Kick set On✍")
+                        ki6.sendText(msg.to,"Auto Kick set On✔")
                     else:
-                        ki6.sendText(msg.to,"Auto Kick set On✍")
+                        ki6.sendText(msg.to,"Auto Kick set On✔")
             elif msg.text in ["Allprotect off","Mode off"]:
               if msg.from_ in admin:
                 if wait["inviteprotect"] == False:
                     if wait["lang"] == "JP":
-                        ki.sendText(msg.to,"All Protect off🔓✍")
-                        ki2.sendText(msg.to,"All Protect off🔓✍")
-                        ki3.sendText(msg.to,"All Protect off🔓✍")
-                        ki4.sendText(msg.to,"All Protect off🔓✍")
-                        ki5.sendText(msg.to,"All Protect off🔓✍")
-                        ki6.sendText(msg.to,"All Protect off🔓✍")
-                        ki7.sendText(msg.to,"All Protect off🔓✍")
-                        ki8.sendText(msg.to,"All Protect off🔓✍")
-                        ki9.sendText(msg.to,"All Protect off🔓✍")
-                        ki10.sendText(msg.to,"All Protect off🔓✍")
+                        ki.sendText(msg.to,"All Protect off✖")
+                        ki2.sendText(msg.to,"All Protect off✖")
+                        ki3.sendText(msg.to,"All Protect off✖")
+                        ki4.sendText(msg.to,"All Protect off✖")
+                        ki5.sendText(msg.to,"All Protect off✖")
+                        ki6.sendText(msg.to,"All Protect off✖")
+                        ki7.sendText(msg.to,"All Protect off✖")
+                        ki8.sendText(msg.to,"All Protect off✖")
+                        ki9.sendText(msg.to,"All Protect off✖")
+                        ki10.sendText(msg.to,"All Protect off✖")
                     else:
                         ki.sendText(msg.to,"")
                 else:
