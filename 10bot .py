@@ -7,12 +7,6 @@ from multiprocessing import Pool, Process
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 
-#Kalau Udah Ada Token
-#cl = LINE('tokennya')
-#cl.log("Auth Token : " + str(cl.authToken))
-#cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
-
-#Ambil Token Via Qr
 cl = LINE("TOKENMU SAYANG")
 cl.log("Auth Token : " + str(cl.authToken))
 cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))
@@ -57,37 +51,230 @@ ki10 = LINE("TOKENMU SAYANG")
 ki10.log("Auth Token : " + str(ki10.authToken))
 ki10.log("Timeline Token : " + str(ki10.tl.channelAccessToken))
 
-helpMessage ="""╔═══════════════╗
-         ✰ɢʜᴏsᴛ ᴛᴇᴀᴍ✰
-╚═══════════════╝
-═════════════════
- ◄]·♦·Menu For Public·♦·[►
-╔════════════════
-╠ Adminlist
-╠ Ownerlist
-╠ Info Group
-╠ Welcome
-╠ Creator
-╠ Bot
-╚════════════════
- ◄]·♦·Menu For Admin·♦·[►
-╔════════════════
-╠ Cancel
-╠ 「Buka/Tutup」qr
-╠ Mid Bot
-╠ Speed/Sp
-╠ 「Cctv/Ciduk」
-╠ Status/Set
-╠ Gurl
-╠ Jam「On/Off」
-╠ Tag all/Tagall
-╠ Absen/Respon
-╠ Banlist
-╚════════════════
-╔═══════════════╗
-         ✰ɢʜᴏsᴛ ᴛᴇᴀᴍ✰
-╚═══════════════╝"""
+helpMessage ="""
+╭══════╬╬═══════╮
+  『COMMAND HELP』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆ Owner
+╠⎆ Pap owner
+╠⎆ Speed
+╠⎆ Speed test
+╠⎆ Settings
+╠⎆ Help
+╠⎆ Help2
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+  『COMMAND SELF』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆『Hi』
+╠⎆『Me』
+╠⎆『Mymid』
+╠⎆『Mid @』
+╠⎆『SearchID ID LINE)』
+╠⎆『Checkdate DD/MM/YY』
+╠⎆『Kalender』
+╠⎆『Steal contact』
+╠⎆『Getpict @』
+╠⎆『Getcover @』
+╠⎆『Auto like』
+╠⎆『System』
+╠⎆『Kernel』
+╠⎆『Cpu』
+╠⎆『Bio @』
+╠⎆Info @』
+╠⎆『Name @』
+╠⎆『Profile @』
+╠⎆『Contact @』
+╠⎆『Comment on/off』
+╠⎆『Friendlist』
+╠⎆『Kicker on/off』
+╠⎆『Repdel @』
+╠⎆『Miclist』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+  『COMMAND BOTS』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆『Absen』
+╠⎆『Respon』
+╠⎆『Runtime』
+╠⎆『copy @』
+╠⎆『Copycontact』
+╠⎆『Mybackup』
+╠⎆『Mybio Text』
+╠⎆『Myname Text』
+╠⎆『Galank Key』
+╠⎆『@bye』
+╠⎆『Bot on/off』
+╠⎆『Masuk』
+╠⎆『Pamit』
+╠⎆『Galank1-Galank10 in』
+╠⎆『Galank1-Galank10 bye』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+  『COMMAND MEDIA』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆『Gift』
+╠⎆『Giftbycontact』
+╠⎆『Gif gore』
+╠⎆『Google (Text)』
+╠⎆『Playstore NamaApp』
+╠⎆『Fancytext Text』
+╠⎆『musik Judul-Penyanyi』
+╠⎆『lirik Judul-Penyanyi』
+╠⎆『musrik Judul-Penyanyi』
+╠⎆『ig UrsnameInstagram』
+╠⎆『Checkig UrsnameIG』
+╠⎆『apakah Text 』
+╠⎆『kapan Text 』
+╠⎆『hari Text 』
+╠⎆『berapa Text 』
+╠⎆『berapakah Text』
+╠⎆『Youtube Judul Video』
+╠⎆『Youtubevideo Judul Video』
+╠⎆『Youtubesearch: Judul Video』
+╠⎆『Image NamaGambar』
+╠⎆『Say Text』
+╠⎆『Say-en Text』
+╠⎆『Say-jp Text』
+╠⎆『Tr-id Text En Ke ID』
+╠⎆『Tr-en Text ID Ke En』
+╠⎆『Tr-th Text ID Ke Th』
+╠⎆『Id@en Text ID Ke En』
+╠⎆『Id@th Text ID Ke TH』
+╠⎆『En@id Text En Ke ID』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+  『COMMAND GROUPS』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆『Welcome』
+╠⎆『Say welcome』
+╠⎆『Invite creator』
+╠⎆『Setview/Cctv』
+╠⎆『Viewseen/Ciduk』
+╠⎆『Gn: (NamaGroup)』
+╠⎆『Tagall/Croot』
+╠⎆『lurk on/off』
+╠⎆『lurkers』
+╠⎆『Recover』
+╠⎆『Cancel』
+╠⎆『Cancelall』
+╠⎆『Gcreator』
+╠⎆『Ginfo』
+╠⎆『Gurl』
+╠⎆『List group』
+╠⎆『Pict group: NamaGroup』
+╠⎆『Spam-5: Text』
+╠⎆『Nspam: Text』
+╠⎆『GhostSpam: Text』
+╠⎆『Add all』
+╠⎆『Kick: Mid』
+╠⎆『Invite: Mid』
+╠⎆『Bot:inv』
+╠⎆『Memlist』
+╠⎆『Getgroup image』
+╠⎆『Urlgroup Image』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+ 『COMMAND PROTECT』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆『Notif:on/off』
+╠⎆『Protect:on/off』
+╠⎆『Invitepro:on/off』
+╠⎆『Alwaysread:on/off』
+╠⎆『Sider:on/off』
+╠⎆『Auto like』
+╠⎆『Invitepro:on/off』
+╠⎆『Auto add:on/off』
+╠⎆『Auto leave:on/off』
+╠⎆『Auto join:on/off』
+╠⎆『Join cancel:on/off』
+╠⎆『Auto kick:on/off』
+╠⎆『Kicker:on/off』
+╠⎆『Comment:on/off』
+╠⎆『Share:on/off』
+╠⎆『Contact:on/off』
+╠⎆『Sticker:on』
+╠⎆『Qrprotect:on/off』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+    『SLΔCҜβΩT』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆『Blank』
+╠⎆『Kickall/Salken』
+╠⎆『Bc: Text』
+╠⎆『Join group: (NamaGroup』
+╠⎆『Leave group: (NamaGroup』
+╠⎆『Leave all group』
+╠⎆『Tag on/off』
+╠⎆『Bot restart/Reboot』
+╠⎆『Turn off』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆ CRΣΔTΩR βΨ:
+╠⎆ 『✍͡➴͜Ĝα₤αηĸ͜͡✫』
+╠⎆ sᴜᴘᴘᴏʀᴛᴇᴅ ʙʏ  : 
+╠⎆ TΣΔM SLΔCҜβΩT
+╰══════╬╬═══════╯"""
 
+GalankMessage ="""
+╭══════╬╬═══════╮
+   『COMMAND SET』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆『Allprotect on/off』
+╠⎆『Ban』
+╠⎆『Unban』
+╠⎆『Ban @』
+╠⎆『Unban @』
+╠⎆『Ban list』
+╠⎆『Invite』
+╠⎆『Spampc @』
+╠⎆『Clear ban』
+╠⎆『Kill』
+╠⎆『Kick @』
+╠⎆『Set member: Jumlah』
+╠⎆『Ban group: NamaGroup』
+╠⎆『Del ban: NamaGroup』
+╠⎆『List ban』
+╠⎆『Kill ban』
+╠⎆『Com set: text』
+╠⎆『Pesan add- text』
+╠⎆『Message set: text』
+╠⎆『Message set text』
+╠⎆『Help set: text』
+╠⎆『Glist』
+╠⎆『Glistmid』
+╠⎆『Details group: Gid』
+╠⎆『Cancel invite: Gid』
+╠⎆『InviteMeTo: Gid』
+╠⎆『Acc invite』
+╠⎆『Removechat』
+╠⎆『Qr on/off』
+╠⎆『Autokick:on/off』
+╠⎆『Autocancel:on/off』
+╠⎆『Invitepro:on/off』
+╠⎆『Join:on/off』
+╠⎆『Joincancel:on/off』
+╠⎆『Respon1:on/off』
+╠⎆『Respon2:on/off』
+╠⎆『Respon3:on/off』
+╠⎆『Respon4:on/off』
+╠⎆『Responkick:on/off』
+╰══════╬╬═══════╯
+╭══════╬╬═══════╮
+╠⎆ CRΣΔTΩR βΨ:
+╠⎆ 『✍͡➴͜Ĝα₤αηĸ͜͡✫』
+╠⎆ sᴜᴘᴘᴏʀᴛᴇᴅ ʙʏ  : 
+╠⎆ TΣΔM SLΔCҜβΩT
+╰══════╬╬═══════╯
+"""
 oepoll = OEPoll(cl)
 KAC=[cl,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
 mid = cl.getProfile().mid
@@ -1053,14 +1240,14 @@ def bot(op):
                     cl.sendText(msg.to,msg.text)
             elif msg.text is None:
                 return
-            elif msg.text in ["Galank help","help"]:
+            elif msg.text in ["Galank help","Help"]:
             	if msg.from_ in admin:
                     cl.sendText(msg.to,helpMessage)
                     cl.sendText(msg.to,"『Dilarang Typo Tanpa Izin Dari Owner: Galank』")
                     
-            elif msg.text in ["Galank key","help","]:
+            elif msg.text in ["Galank key","Help2","]:
             	if msg.from_ in admin:
-                    cl.sendText(msg.to,ryanMessage)
+                    cl.sendText(msg.to,GalankMessage)
                     msg.contentType = 13
                     msg.contentMetadata = {'mid': admsa}
                     cl.sendMessage(msg)
@@ -2994,7 +3181,7 @@ def bot(op):
                         cl.sendText(msg.to,"Ready Off👈")
                     else:
                         cl.sendText(msg.to,"Ready Off👈")
-            elif msg.text in ["Set"]:
+            elif msg.text in ["Settings"]:
                 md = ""
 		if wait["Sambutan"] == True: md+="╠Sambutan : 📱On\n"
 		else:md+="╠Sambutan : 📴Off\n"
